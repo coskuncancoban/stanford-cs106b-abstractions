@@ -6,7 +6,6 @@ This repository contains my solutions and personal explorations of the exercises
 
 This collection serves as a public log of my journey through the book, documenting my progress in learning fundamental concepts of C++, data structures, and algorithms.
 
----
 
 ## About the Environment
 
@@ -26,7 +25,7 @@ Please follow the instructions for your operating system to install the complete
 ### 2. Clone the Repository
 Clone this repository to your local machine using Git:
 ```bash
-git clone [https://github.com/coskuncancoban/stanford-cs106b-abstractions.git](https://github.com/coskuncancoban/stanford-cs106b-abstractions)
+git clone https://github.com/coskuncancoban/stanford-cs106b-abstractions
 ```
 
 ### 3. Open and Run a Specific Project
@@ -37,7 +36,6 @@ This repository is organized into folders by chapter. Each chapter folder contai
 3.  Double-click the **`.pro`** file within that project's folder (e.g., `Project_2-1_SimpleGraphics.pro`) to open it in the Stanford-provided Qt Creator.
 4.  Click the green **"Run"** button (▶) in the bottom-left corner of Qt Creator to build and run the program.
 
----
 
 ## Project Index
 
@@ -49,7 +47,6 @@ The `Project Directory` column shows the path from the root of this repository t
 | 3 | `Chapter03_Data_Structures/Project_3-1_WordLadder` | A program that solves the word ladder puzzle using stacks and queues. |
 | *...* | *...* | *(I will add new projects here as i complete them)* |
 
----
 
 ## Core Technologies
 - **Language:** C++
