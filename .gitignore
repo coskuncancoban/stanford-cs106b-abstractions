@@ -3,8 +3,8 @@
 *.pro.user.*
 
 # Build directories and output files
-build-*/
-*-build/
+build*/
+*build/
 debug/
 release/
 *.o
@@ -15,3 +15,9 @@ release/
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+# Blank project file
+_blankProject/
+
+# Visual Studio Code generated file
+.vscode/
